@@ -100,3 +100,5 @@ function func() {}
 // then, in Function.prototype.__proto__, which is Object.prototype
 
 Function.prototype.__proto__ = Object.prototype
+
+
